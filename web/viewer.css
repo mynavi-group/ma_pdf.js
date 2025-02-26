@@ -1757,9 +1757,9 @@ dialog :link {
     display: none;
   }
 }
-.toolbar {
+/* .toolbar {
   display: none;
-}
+} */
 
 #viewerContainer {
   top: 0;
