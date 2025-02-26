@@ -1757,3 +1757,16 @@ dialog :link {
     display: none;
   }
 }
+.toolbar {
+  display: none;
+}
+
+#viewerContainer {
+  top: 0;
+}
+
+@media print {
+  body {
+      display: none;
+  }
+}
