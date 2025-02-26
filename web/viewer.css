@@ -1770,3 +1770,12 @@ dialog :link {
       display: none;
   }
 }
+
+#editorModeButtons,
+#editorModeSeparator,
+#printButton,
+#downloadButton,
+#secondaryOpenFile,
+#documentProperties { 
+    display: none !important;
+}
